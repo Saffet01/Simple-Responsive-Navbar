@@ -84,7 +84,7 @@ header{
     height: 130px;
 }
 
-@media(max-width: 500px){
+@media(max-width: 700px){
 
     .navbar .links{
         display: none;
